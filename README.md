@@ -1,1 +1,4 @@
-# web-server
+# maven-project
+
+Simple Maven Project conflict
+
